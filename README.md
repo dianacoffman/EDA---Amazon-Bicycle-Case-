@@ -2,6 +2,9 @@
 
 # Overview 📖
 
+This project aims to identify and understand the reasons behind Amazon's decline in bicycle sales. Using advanced exploratory data analysis (EDA) techniques and intelligent visualizations in Power BI, it seeks to uncover purchasing patterns, relationships between variables, and possible anomalies that may be negatively impacting the market.
+
+With a strategic approach, the project aims to provide actionable insights that can guide the creation of more effective sales campaigns, targeting the audience with the most significant potential to purchase. Through the analysis of benchmarks, buying patterns, and hypothesis generation, the project provides a clear and detailed view of the dynamics of the bicycle market, allowing for a deep understanding of the factors that influence consumer decisions. In the end, the project presents suggestions for improvements that can be implemented to reverse the trend of declining sales and ensure that bicycles continue to be a popular and accessible choice for consumers.
 
 # Table of Contents 📚
 
@@ -10,16 +13,25 @@
 - Strategy
 - Business Questions
 - Exploratory Data Analysis in Power BI:
+
       -Benchmarks
+  
       -Purchasing Patterns
+  
       -Generate Hypotheses
-      -Examine Relationships     
+  
+      -Examine Relationships
+
+      -Check Anomalies
+    
 - Insights
 - Suggestion for improvements
 
 # Introduction 📝
 
-xxxxx
+In the past, bicycles symbolized freedom, adventure, and a closer bond with nature and community. However, bicycle sales on Amazon have seen a significant drop, leaving managers and analysts puzzled. In this project, we'll use Power BI to investigate the decline, study purchasing patterns, and provide insights to help reverse this trend. Just like a cyclist adjusts their route, we'll adapt our sales strategies to meet this new challenge.
+
+Just as a cyclist adjusts their route based on the terrain ahead, we will adjust our sales strategies to meet this new challenge. Because, just like cycling, innovation and adaptation are essential to moving forward.
 
 # Situation 🔎
 
