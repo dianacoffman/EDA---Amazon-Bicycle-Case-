@@ -107,7 +107,7 @@ Research was conducted with a larger number of people in Europe, which may chang
 - It is considered interesting to apply campaigns, for example, covering the health factor, so that people who live closer to work (distance between 0-5 miles) will be encouraged to go to work by bike
 - In addition, filtering campaigns for people with only one car is something worth exploring, so you can compare the price of buying a second car with just a simple decision to buy a bicycle
 
-# Suggestion for improvements 🛠️
+# Recommendations 🛠️
 
 - Why is this drop occurring? Campaigns are not targeted to the right audience. It is important to consider the number of children, the distance between home and work, and the number of cars these people have
 - Is this temporary or a trend? It is a permanent trend, since people who have more children will have more cars, and in addition, those who live further from work do not use their bikes to go to work, for example (or if they live far from work, they probably do not have enough time to ride a bike)
