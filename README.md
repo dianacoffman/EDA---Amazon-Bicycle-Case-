@@ -9,7 +9,11 @@
 - Situation
 - Strategy
 - Business Questions
-- Exploratory Data Analysis in Power BI
+- Exploratory Data Analysis in Power BI:
+      -Benchmarks
+      -Purchasing Patterns
+      -Generate Hypotheses
+      -Examine Relationships     
 - Insights
 - Suggestion for improvements
 
@@ -46,20 +50,25 @@ Understanding the characteristics of the data:
 
 2) Analyze Purchasing Patterns / Trends Over Time:
 - Pattern identified 1: The audience that buys the most are people who work close to home ‘0-1 miles’, ‘1-2 miles’ and ‘2-5 miles’.
+
 ![image](https://github.com/user-attachments/assets/4581fe8a-58c8-480c-ab8b-24490ff72ed9)
 
 - Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most.
+
 ![image](https://github.com/user-attachments/assets/ee64243f-a5ed-4e6c-91d1-51352625be3d)
 
 - Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph.
+  
 ![image](https://github.com/user-attachments/assets/2adfae08-8758-4b22-b2ee-37b0865c544a)
 
 - Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars.
 
 Bought:
+
 ![image](https://github.com/user-attachments/assets/14017926-d419-4442-816e-f9cca7a3dee4)
 
 Did not buy:
+
 ![image](https://github.com/user-attachments/assets/8820b013-2da8-4267-b2fd-75d71f1db62b)
 
 3) Generate Hypotheses:
@@ -69,9 +78,11 @@ Did not buy:
 
 4) Examine Relationships (Identify Relationships Between Variables):
 Since the graph shows the same dispersion between the purchased and non-purchased audiences, there is no relationship between the regions, this may just be a question of sample difference between the regions for research.
+
 ![image](https://github.com/user-attachments/assets/780e9601-01d9-4f34-ae1e-bd743e695531)
 
 There is no difference between genders for those with greater purchasing potential.
+
 ![image](https://github.com/user-attachments/assets/cc8c71bd-c3a2-499c-85f3-2752a1ef3a09)
 
 5) Check Anomalies:
