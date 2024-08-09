@@ -25,7 +25,7 @@ With a strategic approach, the project aims to provide actionable insights that 
       -Check Anomalies
     
 - Insights
-- Suggestion for improvements
+- Recommendations
 
 # Introduction 📝
 
