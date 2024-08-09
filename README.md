@@ -31,8 +31,6 @@ With a strategic approach, the project aims to provide actionable insights that 
 
 In the past, bicycles symbolized freedom, adventure, and a closer bond with nature and community. However, bicycle sales on Amazon have seen a significant drop, leaving managers and analysts puzzled. In this project, we'll use Power BI to investigate the decline, study purchasing patterns, and provide insights to help reverse this trend. Just like a cyclist adjusts their route, we'll adapt our sales strategies to meet this new challenge.
 
-Just as a cyclist adjusts their route based on the terrain ahead, we will adjust our sales strategies to meet this new challenge. Because, just like cycling, innovation and adaptation are essential to moving forward.
-
 # Situation 🔎
 
 The volume of bicycle sales has dropped significantly on Amazon and the managers would like to understand why and how to fix it.
