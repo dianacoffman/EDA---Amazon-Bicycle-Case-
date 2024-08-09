@@ -69,7 +69,7 @@ Understanding the characteristics of the data:
 
 - Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph.
   
-![image](https://github.com/user-attachments/assets/2adfae08-8758-4b22-b2ee-37b0865c544a)
+![image](https://github.com/user-attachments/assets/ff8792ed-2f51-4a0b-ac39-45d4766701fd)
 
 - Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars.
 
