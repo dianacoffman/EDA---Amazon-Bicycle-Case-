@@ -43,8 +43,7 @@ Understanding the characteristics of the data:
 - Median of cars: 1 → 1 (buyer audience) and 2 (non-buyer audience).
 
 2) Analyze Purchasing Patterns / Trends Over Time:
-- Pattern identified 1: The audience that buys the most are people who work close to home ‘0-1 miles’, ‘1-2 miles’ and ‘2-5 miles’.
-
+- Identified pattern 1: The audience that buys the most are people who work close to home ‘0-1 miles’, ‘1-2 miles’ and ‘2-5 miles’.
 - Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most
 - Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph
 - Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars
