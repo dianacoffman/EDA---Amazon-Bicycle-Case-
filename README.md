@@ -63,16 +63,26 @@ Did not buy:
 - There is no difference between genders for those with greater purchasing potential
 
 5) Check Anomalies:
-- Research was conducted with a larger number of people in Europe, which may change the results relatively due to cultural differences.
+- Research was conducted with a larger number of people in Europe, which may change the results relatively due to cultural differences
 
 ## Insights💡
 
-- It is considered interesting to apply campaigns, for example, covering the health factor, so that people who live closer to work (distance between 0-5 miles) will be encouraged to go to work by bike
-- In addition, filtering campaigns for people with only one car is something worth exploring, so you can compare the price of buying a second car with just a simple decision to buy a bicycle
+- Health and Proximity Campaigns: Implementing campaigns that promote health benefits could be effective. For instance, encouraging individuals who live within 0-5 miles of their workplace to commute by bike could enhance employee well-being and reduce commuting costs
+- Targeted Campaigns for Car Ownership: Explore campaigns tailored to individuals with only one car. Compare the cost of purchasing a second vehicle with the benefits of buying a bicycle, which could highlight the economic advantages and encourage alternative commuting options
 
 ## Recommendations 🛠️
 
-- Campaigns are not targeted to the right audience. It is important to consider the number of children, the distance between home and work, and the number of cars these people have
-- It is a permanent trend, since people who have more children will have more cars, and in addition, those who live further from work do not use their bikes to go to work, for example (or if they live far from work, they probably do not have enough time to ride a bike)
-- WThe factors that most impact the purchasing decisios are the number of children, number of cars, and the distance between home and work
+Enhance Campaign Targeting:
+- Current campaigns may not be effectively reaching the right audience. Consider targeting based on:
+- Number of Children: Families with more children are likely to have more vehicles
+- Commute Distance: Those living further from work are less likely to bike to work due to time constraints
+- Car Ownership: Tailor messages for individuals with one car to highlight the benefits of biking versus buying an additional vehicle
 
+Acknowledge Long-Term Trends:
+- Recognize that individuals with more children typically own more cars. Additionally, those living further from work may not find biking a viable option due to time constraints
+
+Focus on Key Purchasing Factors:
+- Prioritize campaigns that address the primary factors influencing purchasing decisions:
+- Number of Children: Influence vehicle and transportation choices
+- Number of Cars: Impacts decisions on additional transportation investments
+- Distance Between Home and Work: Affects the feasibility and attractiveness of biking as a commuting option
