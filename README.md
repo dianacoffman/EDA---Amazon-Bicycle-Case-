@@ -11,7 +11,7 @@ With a strategic approach, the project aims to provide actionable insights that 
 - Introduction and Situation
 - Strategy
 - Business Questions
-- Exploratory Data Analysis in Power BI: Benchmarks, Purchasing Patterns, Generate Hypotheses, Examine Relationships, and Check Anomalies
+- Exploratory Data Analysis: Benchmarks, Purchasing Patterns, Generate Hypotheses, Examine Relationships, and Check Anomalies
 - Insights
 - Recommendations
 
