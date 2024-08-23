@@ -34,7 +34,7 @@ Understanding the characteristics of the data:
 
 ## Exploratory Data Analysis 📑
 
-![image](https://github.com/user-attachments/assets/acb6d5a0-cba3-4376-9c78-b30a5b5f290d)
+![image](https://github.com/user-attachments/assets/715c71b7-c8a1-4616-987e-5de57b83efb0)
 
 1) Define Benchmarks / Statistical Summary and Interpretation:
 - Median of income: 60k
@@ -48,10 +48,6 @@ Understanding the characteristics of the data:
 - Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most
 - Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph
 - Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars
-
-Bought:
-
-Did not buy:
 
 3) Generate Hypotheses:
 - Hypothesis 1: Those who have only one car are more likely to buy a bicycle
