@@ -48,7 +48,7 @@ Understanding the characteristics of the data:
 - What are the factors that most impact the purchasing decision?
 - What factors are influencing this drop. Are there outliers that may be significantly affecting the results?
 
-# Exploratory Data Analysis in Power BI 📑
+# Exploratory Data Analysis 📑
 
 ![image](https://github.com/user-attachments/assets/acb6d5a0-cba3-4376-9c78-b30a5b5f290d)
 
