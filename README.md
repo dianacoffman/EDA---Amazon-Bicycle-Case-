@@ -27,13 +27,9 @@ With a strategic approach, the project aims to provide actionable insights that 
 - Insights
 - Recommendations
 
-# Introduction 📝
+# Introduction and Situation📝🔎
 
-In the past, bicycles symbolized freedom, adventure, and a closer bond with nature and community. However, bicycle sales on Amazon have seen a significant drop, leaving managers and analysts puzzled. In this project, we'll use Power BI to investigate the decline, study purchasing patterns, and provide insights to help reverse this trend. Just like a cyclist adjusts their route, we'll adapt our sales strategies to meet this new challenge.
-
-# Situation 🔎
-
-The volume of bicycle sales has dropped significantly on Amazon and the managers would like to understand why and how to fix it.
+In the past, bicycles symbolized freedom, adventure, and a closer bond with nature and community. However, bicycle sales on Amazon have seen a significant drop, leaving managers and analysts puzzled. In this project, we'll use Power BI to investigate the decline, study purchasing patterns, and provide insights to help reverse this trend. Just like a cyclist adjusts their route, we'll adapt our sales strategies to meet this new challenge. The volume of bicycle sales has dropped significantly on Amazon and the managers would like to understand why and how to fix it.
 
 # Strategy 🎯
 
@@ -43,10 +39,10 @@ The volume of bicycle sales has dropped significantly on Amazon and the managers
 # Business Questions ⚖️
 
 Understanding the characteristics of the data:
-- Why is this drop occurring?
-- Is it momentary or is it a trend?
-- What are the factors that most impact the purchasing decision?
-- What factors are influencing this drop. Are there outliers that may be significantly affecting the results?
+- What is driving the decline in our metrics, and how can we address the underlying causes?
+- Is this decline a temporary fluctuation, or does it indicate a long-term trend that requires strategic intervention?
+- Which factors most strongly influence our customers' purchasing decisions, and how can we leverage them to boost sales?
+- What factors are contributing to this decline, and are there any outliers significantly skewing our results that need to be addressed?
 
 # Exploratory Data Analysis 📑
 
@@ -61,25 +57,15 @@ Understanding the characteristics of the data:
 2) Analyze Purchasing Patterns / Trends Over Time:
 - Pattern identified 1: The audience that buys the most are people who work close to home ‘0-1 miles’, ‘1-2 miles’ and ‘2-5 miles’.
 
-![image](https://github.com/user-attachments/assets/4581fe8a-58c8-480c-ab8b-24490ff72ed9)
-
 - Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most.
 
-![image](https://github.com/user-attachments/assets/ee64243f-a5ed-4e6c-91d1-51352625be3d)
-
 - Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph.
-  
-![image](https://github.com/user-attachments/assets/ff8792ed-2f51-4a0b-ac39-45d4766701fd)
 
 - Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars.
 
 Bought:
 
-![image](https://github.com/user-attachments/assets/14017926-d419-4442-816e-f9cca7a3dee4)
-
 Did not buy:
-
-![image](https://github.com/user-attachments/assets/8820b013-2da8-4267-b2fd-75d71f1db62b)
 
 3) Generate Hypotheses:
 - Hypothesis 1: Those who have only one car are more likely to buy a bicycle.
@@ -89,18 +75,11 @@ Did not buy:
 4) Examine Relationships (Identify Relationships Between Variables):
 Since the graph shows the same dispersion between the purchased and non-purchased audiences, there is no relationship between the regions, this may just be a question of sample difference between the regions for research.
 
-![image](https://github.com/user-attachments/assets/780e9601-01d9-4f34-ae1e-bd743e695531)
-
 There is no difference between genders for those with greater purchasing potential.
-
-![image](https://github.com/user-attachments/assets/cc8c71bd-c3a2-499c-85f3-2752a1ef3a09)
 
 5) Check Anomalies:
 
 Research was conducted with a larger number of people in Europe, which may change the results relatively due to cultural differences:
-
-![image](https://github.com/user-attachments/assets/d773d0cb-7485-4fb3-9ba8-51c1f748eaa7)
-
 
 # Insights💡
 
@@ -109,7 +88,7 @@ Research was conducted with a larger number of people in Europe, which may chang
 
 # Recommendations 🛠️
 
-- Why is this drop occurring? Campaigns are not targeted to the right audience. It is important to consider the number of children, the distance between home and work, and the number of cars these people have
-- Is this temporary or a trend? It is a permanent trend, since people who have more children will have more cars, and in addition, those who live further from work do not use their bikes to go to work, for example (or if they live far from work, they probably do not have enough time to ride a bike)
-- What are the factors that most impact the purchasing decision? Number of children, number of cars, and the distance between home and work
+- Campaigns are not targeted to the right audience. It is important to consider the number of children, the distance between home and work, and the number of cars these people have
+- It is a permanent trend, since people who have more children will have more cars, and in addition, those who live further from work do not use their bikes to go to work, for example (or if they live far from work, they probably do not have enough time to ride a bike)
+- WThe factors that most impact the purchasing decisios are the number of children, number of cars, and the distance between home and work
 
