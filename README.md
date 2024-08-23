@@ -69,7 +69,8 @@ Understanding the characteristics of the data:
 ## Recommendations 🛠️
 
 Enhance Campaign Targeting:
-- Current campaigns may not be effectively reaching the right audience. Consider targeting based on:
+
+Current campaigns may not be effectively reaching the right audience. Consider targeting based on:
 - Number of Children: Families with more children are likely to have more vehicles
 - Commute Distance: Those living further from work are less likely to bike to work due to time constraints
 - Car Ownership: Tailor messages for individuals with one car to highlight the benefits of biking versus buying an additional vehicle
@@ -78,7 +79,8 @@ Acknowledge Long-Term Trends:
 - Recognize that individuals with more children typically own more cars. Additionally, those living further from work may not find biking a viable option due to time constraints
 
 Focus on Key Purchasing Factors:
-- Prioritize campaigns that address the primary factors influencing purchasing decisions:
+
+Prioritize campaigns that address the primary factors influencing purchasing decisions:
 - Number of Children: Influence vehicle and transportation choices
 - Number of Cars: Impacts decisions on additional transportation investments
 - Distance Between Home and Work: Affects the feasibility and attractiveness of biking as a commuting option
