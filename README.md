@@ -21,8 +21,8 @@ In the past, bicycles symbolized freedom, adventure, and a closer bond with natu
 
 ## Strategy 🎯
 
-- Understand the reasons for the drop and identify insights to create a more efficient strategy to invest in sales campaigns for the audience with the greatest purchasing potential.
-- Action plan: Perform Exploratory Data Analysis (EDA) to identify patterns, relationships, and anomalies in the data to define the target audience.
+- Understand the reasons for the drop and identify insights to create a more efficient strategy to invest in sales campaigns for the audience with the greatest purchasing potential
+- Action plan: Perform Exploratory Data Analysis (EDA) to identify patterns, relationships, and anomalies in the data to define the target audience
 
 ## Business Questions ⚖️
 
@@ -45,29 +45,25 @@ Understanding the characteristics of the data:
 2) Analyze Purchasing Patterns / Trends Over Time:
 - Pattern identified 1: The audience that buys the most are people who work close to home ‘0-1 miles’, ‘1-2 miles’ and ‘2-5 miles’.
 
-- Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most.
-
-- Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph.
-
-- Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars.
+- Identified pattern 2: People with Bachelor's and Partial College are the ones who buy the most
+- Identified pattern 3: It is observed that those who have one child have greater purchasing potential than those who have more children, as observed in the graph
+- Identified pattern 4: Analyzing the number of cars that people who buy bicycles have, on average, those who buy bicycles have only 1 car, and those who do not buy bicycles have two cars
 
 Bought:
 
 Did not buy:
 
 3) Generate Hypotheses:
-- Hypothesis 1: Those who have only one car are more likely to buy a bicycle.
-- Hypothesis 2: Those who live 0-5 miles from work are more likely to buy a bicycle.
-- Hypothesis 3: Those who have only 1 child are more likely to buy a bicycle.
+- Hypothesis 1: Those who have only one car are more likely to buy a bicycle
+- Hypothesis 2: Those who live 0-5 miles from work are more likely to buy a bicycle
+- Hypothesis 3: Those who have only 1 child are more likely to buy a bicycle
 
 4) Examine Relationships (Identify Relationships Between Variables):
-Since the graph shows the same dispersion between the purchased and non-purchased audiences, there is no relationship between the regions, this may just be a question of sample difference between the regions for research.
-
-There is no difference between genders for those with greater purchasing potential.
+- Since the graph shows the same dispersion between the purchased and non-purchased audiences, there is no relationship between the regions, this may just be a question of sample difference between the regions for research
+- There is no difference between genders for those with greater purchasing potential
 
 5) Check Anomalies:
-
-Research was conducted with a larger number of people in Europe, which may change the results relatively due to cultural differences:
+- Research was conducted with a larger number of people in Europe, which may change the results relatively due to cultural differences.
 
 ## Insights💡
 
