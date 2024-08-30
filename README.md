@@ -2,7 +2,7 @@
 
 ## Overview 📖
 
-This project aims to identify and understand the reasons behind Amazon's decline in bicycle sales. Using advanced exploratory data analysis (EDA) techniques and intelligent visualizations in Power BI, it seeks to uncover purchasing patterns, relationships between variables, and possible anomalies that may be negatively impacting the market.
+This project aims to identify and understand the reasons behind Amazon's decline in bicycle sales. Using advanced exploratory data analysis (EDA) techniques and intelligent visualizations in Excel, it seeks to uncover purchasing patterns, relationships between variables, and possible anomalies that may be negatively impacting the market.
 
 With a strategic approach, the project aims to provide actionable insights that can guide the creation of more effective sales campaigns, targeting the audience with the most significant potential to purchase. Through the analysis of benchmarks, buying patterns, and hypothesis generation, the project provides a clear and detailed view of the dynamics of the bicycle market, allowing for a deep understanding of the factors that influence consumer decisions. In the end, the project presents suggestions for improvements that can be implemented to reverse the trend of declining sales and ensure that bicycles continue to be a popular and accessible choice for consumers.
 
